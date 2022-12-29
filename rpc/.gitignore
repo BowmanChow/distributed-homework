@@ -1,1 +1,8 @@
-__pycache__
+*
+!.gitignore
+!*.py
+!*.md
+!images
+!*.png
+!protos
+!*.proto
